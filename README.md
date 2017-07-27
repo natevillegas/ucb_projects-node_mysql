@@ -12,4 +12,5 @@ Thia CLI app is an Amazon-like storefront that uses MySQL skills in this week's 
 	1. This means updating the SQL database to reflect the remaining quantity.
 1. Once the update goes through, show the customer the total cost of their purchase.
 
-Link to video demo:
+Link to video demo (download):
+https://github.com/natevillegas/ucb_projects-node_mysql/raw/master/video-demo.mov
